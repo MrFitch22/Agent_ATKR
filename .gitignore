@@ -88,3 +88,6 @@ jspm_packages/
 # Temporary folders
 tmp/
 temp/
+
+# Specific files
+agent-exploit-lab/COMMANDS.md
